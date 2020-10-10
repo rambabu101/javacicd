@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Welcome Cision-AccionLabs CI/CD in Jenkins on AWS Cloud" );
+        System.out.println( "Welcome Cision-AccionLabs CI/CD in Jenkins on AWS Cloud through VM" );
     }
 }
